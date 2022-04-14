@@ -1,0 +1,16 @@
+p {
+    background-color: #F4C2C2;
+    font-family: "Verdana", "DejaVuSans", sans-serif;
+}
+#bl{
+    color: blue;
+    font-size: 36px;
+}
+.fontsize{
+    font-size: 24px;
+}
+#lg{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
